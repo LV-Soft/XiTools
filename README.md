@@ -64,13 +64,13 @@ Solo afecta a la interfaz, es detectado automáticamente por los meta datos del 
 
 ![](http://icons.iconarchive.com/icons/google/chrome/16/Google-Chrome-icon.png) **Usuarios de Chrome**:
 * Instalar ![](http://dl.dropbox.com/u/89283239/icons/extension/tampermonkey.png) [Tampermonkey](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-* Ingresar en la versión de OGame desea y seleccionar la última versión del script
+* Ingresar en la versión de OGame y seleccionar la última versión del script
 * Click en el botón **Raw**
 
 
 ![](http://icons.iconarchive.com/icons/photoshopedia/xedia/16/Firefox-icon.png) **Usuarios de Mozilla Firefox**:
 * Instalar ![](http://img802.imageshack.us/img802/9304/extensiongreasemonkey.png) [Greasemonkey](https://addons.mozilla.org/firefox/addon/greasemonkey/)
-* Ingresar en la versión de OGame desea y seleccionar la última versión del script
+* Ingresar en la versión de OGame y seleccionar la última versión del script
 * Click en el botón **Raw**
 
 ***
