@@ -2,7 +2,7 @@
 
 XiTools III to improve the user experience of OGame
 
-### Current version: *3.0.6.1*  
+### Current version: *3.0.6.16*  
 
 ***
 
