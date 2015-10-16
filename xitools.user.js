@@ -173,7 +173,7 @@ ht:"Vaisseaux en FlotteII/FlotteIII",hG:"Raccourci FlotteII",hn:"Raccourci",cb:"
 "605":"Error, player is in vacation mode","606":"No fleets can be sent from vacation mode!","610":"Error, not enough ships available, send maximum number:","611":"Error, no ships available","612":
 "Error, no free fleet slots available","613":"Error, you don't have enough deuterium","614":"Error, there is no planet there","615":"Error, not enough cargo capacity","616":"Multi-alarm","617":
 "Admin or GM","618":"Attack ban until 01.01.1970 01:00:00"},mi:"Please wait a moment."}};return aL[lang];};mJ=function(){var bu=window.location.search;var mZ={};bu.replace(new RegExp(
-"([^?=&]+)(=([^&]*))?","g"),function($0,$1,$2,$3){mZ[$1]=$3;});return mZ;};function XiTClass(call){this.version="3.0.6.19";this.fz="http://userscripts.org/scripts/source/137752.user.js";this.eH=
+"([^?=&]+)(=([^&]*))?","g"),function($0,$1,$2,$3){mZ[$1]=$3;});return mZ;};function XiTClass(call){this.version="3.1.1";this.fz="http://userscripts.org/scripts/source/137752.user.js";this.eH=
 "http://userscripts.org/scripts/show/137752";this.dc=new Array();this.bw=(function(selector,update){if(!XiT.dc[selector]||update){XiT.dc[selector]=$(selector);}return XiT.dc[selector];});this.ix=(
 function(selector,update){if(!this.dc[selector]||update){this.dc[selector]=$(selector);}return this.dc[selector];});String.prototype.bn=(function(cL){var value=this;if(value!=""){bS=parseInt(value);
 bS=(isNaN(bS))?0:bS;bS=(cL)?bS:Math.abs(bS);return bS;}else{return 0;}});String.prototype.aT=(function(){var bu=this;return(bu=="0")?false:true;});this.fg=(function(data){var ip=data.version.split(
